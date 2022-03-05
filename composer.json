@@ -1,0 +1,15 @@
+{
+    "name": "adair/furniture",
+    "autoload": {
+        "psr-4": {
+            "Adair\\Furniture\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adair J. Limana",
+            "email": "ada_limana@yahoo.com.br"
+        }
+    ],
+    "require": {}
+}
